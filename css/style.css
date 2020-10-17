@@ -1,0 +1,321 @@
+
+body{
+    margin: 0 auto;
+    padding: 0 auto;
+  
+    background-color: rgba(80,134,204,1);
+}
+
+strong{
+    font-weight:lighter;
+}
+
+.margin-left10{
+    margin-left:10%;
+}
+
+
+ #privacy-policy{
+    color:blue;
+}
+h1{
+    font-family: 'Open Sans', serif;
+    color:white;
+    line-height: 80px;
+    margin-top: -8px;
+    text-align: left;
+    font-family: Prompt;
+    font-style: normal;
+    font-weight: lighter;
+    font-size: 64px;
+    color: rgba(255,255,255,1);
+
+}
+h2{
+    white-space: nowrap;
+    text-align: left;
+    font-family: Prompt;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 38px;
+    color: rgba(255,255,255,1);
+}
+
+.lorem{
+    white-space:normal;
+    text-align: left;
+}
+
+
+
+
+
+.btn{
+    cursor: pointer;
+    border-radius: 40px;
+    background-color:rgba(230,230,46,1);
+    text-align: center;
+    padding:18px 28px;
+     font-family: 'Open Sans', sans-serif,bold;
+     font-family: Open Sans;
+     font-style: normal;
+     font-weight: bold;
+     font-size: 24px;
+     color: rgba(43,43,43,1);
+     border:none;
+    
+ }
+
+ .btn:hover{
+     box-shadow: #ccc 5px 5px 5px;
+ }
+
+ .get-started-btn{
+ 
+     cursor: pointer;
+     border-radius: 40px;
+    background-color:  rgba(63,50,77);
+     text-align: center;
+     padding:18px 28px;
+      font-family: 'Open Sans', sans-serif,bold;
+      font-family: Open Sans;
+      font-style: normal;
+      font-weight: bold;
+      font-size: 24px;
+      color:white;
+      border:none;
+ }
+
+.get-started-btn:hover{
+    box-shadow: #ccc 5px 5px 5px;
+}
+
+ .signup-btn{
+    cursor: pointer;
+    border-radius: 40px;
+   background-color:  rgb(114,97,209);
+   border:none;
+    text-align: center;
+    padding:18px 28px;
+     font-family: 'Open Sans', sans-serif,bold;
+     font-family: Open Sans;
+     font-style: normal;
+     font-weight: bold;
+     font-size: 24px;
+     color:white;
+ }
+
+.bottom-buffer{
+    margin-bottom:5%;
+}
+
+
+
+ .get-started-area{
+     background-color:white;
+ }
+
+ .form-area{
+     background-color:rgba(237,245,252,1);
+ }
+
+ .learn-more{
+    font-family: Open Sans;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 24px;
+    border:solid white;
+    border-radius:40px;
+    color:white;
+    padding:18px 28px;
+    background-color:rgba(193, 66, 66, 0);
+    
+}
+.form-control{
+    border:none;
+    border-radius:15px;
+    padding:18px 28px;
+    font-size: 24px;
+}
+
+.about{
+    color:rgba(57,55,99,1);
+    align-content: center;
+    
+}
+
+
+ul{
+    text-decoration: none;
+    list-style-type: none;
+   display:inline;
+    
+
+}
+
+
+
+li{
+    text-decoration: none;
+    display:inline;
+    font-family: Open Sans;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 20px;
+    color: rgba(255,255,255,1);
+    padding:2%;
+ 
+   
+    
+ 
+}
+
+.navbar{
+    width:100%;
+ 
+  
+}
+
+
+a{
+    color: white;
+}
+
+.main-img{
+    position:relative;
+}
+
+.top-buffer20{
+    margin-top:20%;
+}
+.top-buffer10{
+    margin-top:10%;
+}
+.top-buffer5{
+    margin-top:5%;
+}
+.top-buffer3{
+    margin-top:3%;
+}
+
+p{
+    line-height: 27px;
+		margin-top: -5.5px;
+		text-align: left;
+		font-family: Open Sans;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 16px;
+        color: rgba(237,245,252,1);
+        white-space: pre-wrap;
+}
+
+
+.signup{
+    color:rgba(63,50,37);
+    text-align:left;
+    padding:5%;
+}
+
+
+
+.features-benefits{
+    background-color:rgba(63,50,77);
+    font-family: Prompt;
+    font-style: normal;
+    font-weight: normal;
+}
+
+.speedy-response{
+    background-color:rgba(63,50,77);
+    text-align: center;
+    font-family: Prompt;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 24px;
+    color: rgba(237,245,252,1);
+    white-space: wrap;
+    padding:3%;
+}
+.logo{
+    position:relative;
+    top:30%;
+}
+.p-speedy-response{
+    line-height: 27px;
+    margin-top: -5.5px;
+    text-align: center;
+    font-family: Open Sans;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    color: rgba(237,245,252,1);
+    white-space: wrap;
+}
+
+.about-p{
+    line-height: 40px;
+		margin-top: -11px;
+		text-align: left;
+		font-family: Open Sans;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 18px;
+		color: rgba(45,45,45,1);
+}
+
+.social-media{
+    background-color:rgba(246,246,246);
+}
+
+.footer{
+    background-color:rgba(246,246,246);
+}
+
+
+.img-responsive{
+    display:inline-block;
+}
+
+.learn-more-btn{
+    background-color:rgba(63,50,77);
+    text-align: center;
+    padding:18px 28px;
+     font-family: 'Open Sans', sans-serif,bold;
+     font-family: Open Sans;
+     font-style: normal;
+     font-weight: bold;
+     font-size: 24px;
+     border-radius: 40px;
+     border: 1px white solid;
+     color:white;
+}
+.form-group{
+    padding:3%;
+}
+.learn-more-btn:hover{
+    box-shadow: #ccc 5px 5px 5px;
+}
+
+
+.terms-conditions{
+   
+
+background-color:rgba(246,246,246);
+    white-space: wrap;
+    text-align: center;
+    font-family: Open Sans;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    color: rgba(63,51,77,1);
+}
+
+#links{
+    text-align: center;
+    font-family: Open Sans;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    color: rgba(63,51,77,1);
+}
